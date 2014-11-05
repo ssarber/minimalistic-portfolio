@@ -4,10 +4,10 @@ body {
 	font-weight: 100 !important;
 }
 
-.image-move img:hover { 
- 	position: relative; 
+.image-move img:hover {
+ 	position: relative;
     top: -7px;
-} 
+}
 
 .text-muted {
 	color: #BCBBBB;
